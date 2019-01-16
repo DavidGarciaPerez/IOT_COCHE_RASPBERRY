@@ -1,5 +1,3 @@
-
-Error: The file/path provided (hello.py) does not appear to exist.  Please verify the path is correct.  If app is not on PYTHONPATH, ensure the extension is .py
 pi@pi-g05:~ $ ls
 Desktop    ImageMagick-7.0.8-14  MagPi     Proyecto      Templates
 Documents  ImageMagick.tar.gz    Music     Public        testhttp
